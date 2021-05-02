@@ -6,7 +6,19 @@
     <description>Recent content in Posts on Hyundeok Park&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 May 2021 21:08:40 +0800</lastBuildDate><atom:link href="http://airglow923.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 May 2021 00:03:57 +0800</lastBuildDate><atom:link href="http://airglow923.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Static Objects and Undefined Behaviors in C&#43;&#43;</title>
+      <link>http://airglow923.github.io/post/static-variables-and-undefined-behaviors-in-cpp/</link>
+      <pubDate>Sun, 02 May 2021 00:03:57 +0800</pubDate>
+      
+      <guid>http://airglow923.github.io/post/static-variables-and-undefined-behaviors-in-cpp/</guid>
+      <description>Definition of static objects Let me start this article with the definition of static objects.
+A static object refers to a object with a static storage duration. Specifically, it is unique by existence and will exist throughout the execution of a program.
+static objects in practice Then, what are static objects in C++?
+There are mainly two types of static objects: those with internal linkage and the other with external linkage.</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>http://airglow923.github.io/post/my-first-post/</link>
