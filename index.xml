@@ -6,7 +6,19 @@
     <description>Recent content on Hyundeok Park&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 May 2021 00:03:57 +0800</lastBuildDate><atom:link href="http://airglow923.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Dec 2021 14:11:04 +0800</lastBuildDate><atom:link href="http://airglow923.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attributes in C/C&#43;&#43;</title>
+      <link>http://airglow923.github.io/post/cpp-attributes/</link>
+      <pubDate>Sun, 12 Dec 2021 14:11:04 +0800</pubDate>
+      
+      <guid>http://airglow923.github.io/post/cpp-attributes/</guid>
+      <description>__attribute__ In C/C++, one can apply an attribute to a function or a variable using a keyword __attribute__.
+While it is not part of ISO C standard, popular compilers such as Clang and GCC support it. So, an attribute supported by these two compilers need not be modified.
+[[attribute]] There is another syntax for attributes that is introduced since C23 and C++11, which is [[attribute]].
+Attribute Namespace Unlike __attribute__, this syntax requires a namespace to be specified for non-standard attributes as below:</description>
+    </item>
+    
     <item>
       <title>Static Objects and Undefined Behaviors in C&#43;&#43;</title>
       <link>http://airglow923.github.io/post/static-variables-and-undefined-behaviors-in-cpp/</link>
