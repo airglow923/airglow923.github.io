@@ -8,10 +8,10 @@
     <lastBuildDate>Sun, 12 Dec 2021 14:11:04 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Attributes in C/C&#43;&#43;</title>
-      <link>/post/cpp-attributes/</link>
+      <link>/posts/cpp-attributes/</link>
       <pubDate>Sun, 12 Dec 2021 14:11:04 +0800</pubDate>
       
-      <guid>/post/cpp-attributes/</guid>
+      <guid>/posts/cpp-attributes/</guid>
       <description>__attribute__ # In C/C++, one can apply an attribute to a function or a variable using a keyword __attribute__.
 While it is not part of ISO C standard, popular compilers such as Clang and GCC support it. So, an attribute supported by these two compilers need not be modified.
 [[attribute]] # There is another syntax for attributes that is introduced since C23 and C++11, which is [[attribute]].
@@ -20,10 +20,10 @@ Attribute Namespace # Unlike __attribute__, this syntax requires a namespace to 
     
     <item>
       <title>Static Objects and Undefined Behaviors in C&#43;&#43;</title>
-      <link>/post/static-variables-and-undefined-behaviors-in-cpp/</link>
+      <link>/posts/static-variables-and-undefined-behaviors-in-cpp/</link>
       <pubDate>Sun, 02 May 2021 00:03:57 +0800</pubDate>
       
-      <guid>/post/static-variables-and-undefined-behaviors-in-cpp/</guid>
+      <guid>/posts/static-variables-and-undefined-behaviors-in-cpp/</guid>
       <description>Definition of static objects # Let me start this article with the definition of static objects.
 A static object refers to a object with a static storage duration. Specifically, it is unique by existence and will exist throughout the execution of a program.
 static objects in practice # Then, what are static objects in C++?
@@ -32,10 +32,10 @@ There are mainly two types of static objects: those with internal linkage and th
     
     <item>
       <title>My First Post</title>
-      <link>/post/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Sat, 01 May 2021 21:08:40 +0800</pubDate>
       
-      <guid>/post/my-first-post/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description>Hello, this is my first post on GitHub blog.
 This site is powered by Hugo, a static site generator.
 Here is an example $$ \LaTeX $$ code to test whether it works on Markdown:
