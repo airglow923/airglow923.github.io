@@ -1,47 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hyundeok Park&#39;s Blog</title>
-    <link>http://airglow923.github.io/</link>
-    <description>Recent content on Hyundeok Park&#39;s Blog</description>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 12 Dec 2021 14:11:04 +0800</lastBuildDate><atom:link href="http://airglow923.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Dec 2021 14:11:04 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Attributes in C/C&#43;&#43;</title>
-      <link>http://airglow923.github.io/post/cpp-attributes/</link>
+      <link>/post/cpp-attributes/</link>
       <pubDate>Sun, 12 Dec 2021 14:11:04 +0800</pubDate>
       
-      <guid>http://airglow923.github.io/post/cpp-attributes/</guid>
-      <description>__attribute__ In C/C++, one can apply an attribute to a function or a variable using a keyword __attribute__.
+      <guid>/post/cpp-attributes/</guid>
+      <description>__attribute__ # In C/C++, one can apply an attribute to a function or a variable using a keyword __attribute__.
 While it is not part of ISO C standard, popular compilers such as Clang and GCC support it. So, an attribute supported by these two compilers need not be modified.
-[[attribute]] There is another syntax for attributes that is introduced since C23 and C++11, which is [[attribute]].
-Attribute Namespace Unlike __attribute__, this syntax requires a namespace to be specified for non-standard attributes as below:</description>
+[[attribute]] # There is another syntax for attributes that is introduced since C23 and C++11, which is [[attribute]].
+Attribute Namespace # Unlike __attribute__, this syntax requires a namespace to be specified for non-standard attributes as below:</description>
     </item>
     
     <item>
       <title>Static Objects and Undefined Behaviors in C&#43;&#43;</title>
-      <link>http://airglow923.github.io/post/static-variables-and-undefined-behaviors-in-cpp/</link>
+      <link>/post/static-variables-and-undefined-behaviors-in-cpp/</link>
       <pubDate>Sun, 02 May 2021 00:03:57 +0800</pubDate>
       
-      <guid>http://airglow923.github.io/post/static-variables-and-undefined-behaviors-in-cpp/</guid>
-      <description>Definition of static objects Let me start this article with the definition of static objects.
+      <guid>/post/static-variables-and-undefined-behaviors-in-cpp/</guid>
+      <description>Definition of static objects # Let me start this article with the definition of static objects.
 A static object refers to a object with a static storage duration. Specifically, it is unique by existence and will exist throughout the execution of a program.
-static objects in practice Then, what are static objects in C++?
+static objects in practice # Then, what are static objects in C++?
 There are mainly two types of static objects: those with internal linkage and the other with external linkage.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://airglow923.github.io/post/my-first-post/</link>
+      <link>/post/my-first-post/</link>
       <pubDate>Sat, 01 May 2021 21:08:40 +0800</pubDate>
       
-      <guid>http://airglow923.github.io/post/my-first-post/</guid>
+      <guid>/post/my-first-post/</guid>
       <description>Hello, this is my first post on GitHub blog.
 This site is powered by Hugo, a static site generator.
-Here is an example \( \LaTeX \) code to test whether it works on Markdown:
-\[ \begin{align*} f(x) &amp;= x^2\\ g(x) &amp;= \frac{1}{x}\\ F(x) &amp;= \int^a_b \frac{1}{3}x^3 \end{align*} \]
-KaTeX is the \( \LaTeX \) rendering engine used for my blog.</description>
+Here is an example $$ \LaTeX $$ code to test whether it works on Markdown:
+$$ \begin{align*} f(x) &amp;amp;= x^2\ g(x) &amp;amp;= \frac{1}{x}\ F(x) &amp;amp;= \int^a_b \frac{1}{3}x^3 \end{align*} $$
+KaTeX is the $$ \LaTeX $$ rendering engine used for my blog.</description>
     </item>
     
   </channel>

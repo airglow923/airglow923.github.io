@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: http://airglow923.github.io/sitemap.xml
